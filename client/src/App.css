@@ -1,0 +1,21 @@
+@import '~antd/dist/antd.css';
+
+
+.login-form{
+    position: absolute;
+    width: 1200px;
+    margin: 130px 36px;
+}
+
+
+.example {
+    margin: 20px 0;
+    margin-bottom: 20px;
+    padding: 30px 50px;
+    text-align: center;
+    background: rgba(0, 0, 0, 0.05);
+    border-radius: 4px;
+  }
+    .example {
+      background: rgba(255,255,255,0.08);
+    }
